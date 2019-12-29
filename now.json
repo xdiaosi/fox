@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+  	{"src": "/(.*)","dest": "https://t66y.com/$1"}
+  ]
+}
